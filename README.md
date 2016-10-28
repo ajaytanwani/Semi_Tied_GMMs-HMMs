@@ -6,7 +6,7 @@ Tanwani, A. K., Calinon, S., "Learning Robot Manipulation Tasks with Task-Parame
 Hidden Semi-Markov Model", IEEE Robotics and Automation Letters (RA-L), vol. 1 (1), pp. 235-242, 2016.  
 ```
 
-Semi-tied GMMs/HMMs/HSMMs decompose the covariance matrix into two terms: a common latent feature matrix of non-orthogonal basis vectors shared across all the mixture components; and a component-specific diagonal matrix that scales the appropriate subspace of each mixture component as convex combination of the basis vectors. In the figure below, the basis vector in red is shared across the first and the third mixture component, while the basis vector in green is shared across the first and the second mixture component. The basis vector in blue is tied only to the second mixture component.  
+Semi-tied GMMs/HMMs/HSMMs decompose the covariance matrix into two terms: a common latent feature matrix of non-orthogonal basis vectors shared across all the mixture components; and a component-specific diagonal matrix that scales the appropriate subspace of each mixture component as convex combination of the basis vectors. In the data below encoded with a semi-tied GMM, the basis vector in red is shared across the first and the third mixture component, while the basis vector in green is shared across the first and the second mixture component. The basis vector in blue is tied only to the second mixture component.  
 ![alt text](doc/zshapeHS.png)
 
 ## Algorithms  
