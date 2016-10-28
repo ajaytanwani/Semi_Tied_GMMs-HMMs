@@ -31,19 +31,3 @@ ChickenDance.mat - Chicken Dance Movement: The dataset is taken from http://moca
 Zshape3D.mat - Zshape3D : Synthetic 3-dimensional z-shaped movement  
 BaxterPickPlace.mat - Pick and Place Task: Demonstrations collected to teach Baxter manipulation task of picking an object from different initial configurations and placing it on the target by avoiding an obstace of varying height  
 BaxterValveDemos2.mat - Valve Opening Task: Demonstrations collected to teach Baxter manipulation task of opening a valve from different initial configurations  
-
-
-## Contact  
- 
-Ajay Tanwani  
-<http://www.ajaytanwani.com>
-
-@ARTICLE{Tanwani2016a,  
-author={Tanwani, A.K. and Calinon, S.},  
-journal={Robotics and Automation Letters, IEEE},  
-title={Learning Robot Manipulation Tasks With Task-Parameterized Semitied Hidden Semi-Markov Model},  
-year={2016},  
-volume={1},  
-number={1},  
-pages={235-242}}  
-
