@@ -25,7 +25,6 @@ clc
 close all
 
 addpath('./utils/');
-addpath('./controllers')
 addpath(genpath('./algorithms'))
 %% Select the Dataset and parameters
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

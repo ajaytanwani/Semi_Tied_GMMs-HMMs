@@ -30,7 +30,6 @@ clc
 close all
 
 addpath('./utils/');
-addpath('./controllers')
 addpath(genpath('./algorithms'))
 %% Load the dataset and the parameters
 
