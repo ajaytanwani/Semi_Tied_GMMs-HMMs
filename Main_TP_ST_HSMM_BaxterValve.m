@@ -93,6 +93,7 @@ fprintf('Parameters estimation of tensor model with EM:');
 
 model = EM_tensorSTGMM(Data, model);      %%Task Parameterized Tied Gaussian Mixture Model
 model = EM_tensorSTHSMM(s, model);       %%Task Parameterized Tied Hidden Semi-Markov Model
+%%% model = EM_tensorHSMM(s, model);       %%Task Parameterized Hidden Semi-Markov Model
 
 %% Reproduction for the task parameters used to train the model
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
