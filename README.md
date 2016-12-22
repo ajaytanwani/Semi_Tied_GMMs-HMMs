@@ -9,8 +9,6 @@ Hidden Semi-Markov Model", IEEE Robotics and Automation Letters (RA-L), vol. 1 (
 ## Algorithms  
   
 EM_STGMM.m - semi-tied Gaussian mixture model (GMM)  
-EM_tensorSTGMM.m - task-parameterized semi-tied Gaussian mixture model  
-EM_tensorSTHMM.m - task-parameterized semi-tied hidden Markov model  
 EM_tensorHSMM.m - task-parameterized hidden semi-Markov model  
 EM_tensorSTHSMM.m - task-parameterized semi-tied hidden semi-Markov model  
 TV_LQR_continuous_ff.m - time varying finite horizon linear quadratic tracking controller with feedforward term  
